@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <h2 align="left">Hi 👋! My name is Abhishek and I'm a Java FullStack Developer ,<br> Enthusiastic web developer with expertise in HTML, CSS, JavaScript, ReactJS, NextJS, and front-end frameworks like Bootstrap and Tailwind. Proficient in version control (Git/GitHub) and database management (SQL, PostgreSQL) Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices</h2>
 
 ###
@@ -32,8 +31,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
@@ -59,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
@@ -95,4 +94,3 @@
 <img align="right" src="https://profile-counter.glitch.me/abhisheksingh66/count.svg?"  />
 
 ###
--->
