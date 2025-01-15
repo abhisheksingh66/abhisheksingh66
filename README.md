@@ -153,9 +153,6 @@ Passionate about crafting dynamic web applications, collaborating with designers
 
 ---
 
-###
-
-<img align="right" src="https://profile-counter.glitch.me/abhisheksingh66/count.svg?"  />
 
 ###
 
