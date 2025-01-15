@@ -1,3 +1,10 @@
+# Hi, I'm Abhishek Singh! 👋
+
+### 💻 Java Full Stack Developer | 🚀 Problem Solver | 🌟 Lifelong Learner
+
+Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** with experience in designing and building scalable, efficient, and user-friendly applications. I specialize in back-end and front-end development, blending creativity and logic to craft exceptional software solutions.
+
+---
 
 <h2 align="left">Hi 👋! My name is Abhishek and I'm a Java FullStack Developer ,<br> Enthusiastic web developer with expertise in HTML, CSS, JavaScript, ReactJS, NextJS, and front-end frameworks like Bootstrap and Tailwind. Proficient in version control (Git/GitHub) and database management (SQL, PostgreSQL) Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices</h2>
 
