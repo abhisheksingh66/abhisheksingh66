@@ -1,12 +1,26 @@
 # Hi, I'm Abhishek Singh! 👋
 
-### 💻 Java Full Stack Developer | 🚀 Problem Solver | 🌟 Lifelong Learner
+### 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** with experience in designing and building scalable, efficient, and user-friendly applications. I specialize in back-end and front-end development, blending creativity and logic to craft exceptional software solutions.
+Welcome to my GitHub profile! I'm  eager to contribute to innovative projects and grow as a software developer."Aspiring to specialize in both back-end and front-end development, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions."
 
 ---
 
-<h2 align="left">Hi 👋! My name is Abhishek and I'm a Java FullStack Developer ,<br> Enthusiastic web developer with expertise in HTML, CSS, JavaScript, ReactJS, NextJS, and front-end frameworks like Bootstrap and Tailwind. Proficient in version control (Git/GitHub) and database management (SQL, PostgreSQL) Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices</h2>
+<h2 align="left">Hi 👋! My name is Abhishek and I'm a Java Full Stack Developer</h2>
+
+<p>
+Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
+</p>
+
+- **Front-End Development:** HTML, CSS, JavaScript, ReactJS, NextJS, Bootstrap, and Tailwind CSS.  
+- **Back-End Development:** Java, Spring, Spring Boot, Servlets, JSP, Hibernate.  
+- **Database Management:** SQL, PostgreSQL, and MySQL.  
+- **Version Control:** Git/GitHub.  
+
+<p>
+Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices to build scalable, user-friendly software solutions.
+</p>
+
 
 ###
 
@@ -94,7 +108,29 @@ Welcome to my GitHub profile! I'm a passionate **Java Full Stack Developer** wit
 
 ###
 
-<h6 align="left">Skills <br>● Language:Java, HTML/CSS, JavaScript, C<br> ● Tools:VSCode,Jupyter Notebook, IntelliJ IDEA, Text Editor, Eclipse IDE, Git & GitHub<br> ● Frameworks:JQuery, Bootstrap, Tailwind Css, ReactJs, ReduxToolkit, NextJs, MUI<br> ● Database:SQL,PostgreSQL & Oracle<br> ● Knowledge:Ubuntu,Windows,Linux<br> ● SoftSkills : Communication, Teamwork, Problem Solving, Data Structures & Algorithm</h6>
+<h3 align="left">💻 Skills</h3>
+
+**Languages:**  
+- Java (Core Java, Advanced Java), HTML/CSS, JavaScript, C  
+
+**Tools:**  
+- IntelliJ IDEA, Eclipse IDE, VSCode, Jupyter Notebook, Git & GitHub  
+
+**Frameworks & Libraries:**  
+- Spring, Spring Boot, Hibernate, jQuery, Bootstrap, Tailwind CSS, ReactJS, Redux Toolkit, NextJS, MUI  
+
+**Databases:**  
+- SQL, PostgreSQL, Oracle  
+
+**Operating Systems:**  
+- Ubuntu, Windows, Linux  
+
+**Core Java Knowledge:**  
+- Object-Oriented Programming (OOP), Multithreading, Collections Framework, Exception Handling, JDBC  
+
+**Soft Skills:**  
+- Communication, Teamwork, Problem Solving, Data Structures & Algorithms  
+
 
 ###
 
