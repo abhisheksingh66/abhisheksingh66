@@ -148,7 +148,7 @@ Passionate about crafting dynamic web applications, collaborating with designers
 ## 🔗 Let's Connect!
 
 - LinkedIn: [Abhishek Singh](https://www.linkedin.com/in/abhishek-singh05/?trk=opento_sprofile_topcard)
-- Portfolio: [My Website](https://your-portfolio.com)
+- Portfolio: [My Website](https://abhisheksingh77.netlify.app/)
 - Email: your.email@example.com
 
 ---
