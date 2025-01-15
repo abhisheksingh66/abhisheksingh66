@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 
 ---
 
-<h2 align="left">Hi 👋! My name is Abhishek and I'm a Java Full Stack Developer</h2>
-
 <p>
 Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
 </p>
@@ -132,8 +130,27 @@ Passionate about crafting dynamic web applications, collaborating with designers
 - Communication, Teamwork, Problem Solving, Data Structures & Algorithms  
 
 
+## 🌟 Highlights
+
+- Passionate about crafting clean, efficient, and maintainable code.
+- Continuously learning and adapting to new technologies.
+
+---
+
+
+## 🔗 Let's Connect!
+
+- LinkedIn: [Abhishek Singh]([https://linkedin.com/in/username](https://www.linkedin.com/in/abhishek-singh05/?trk=opento_sprofile_topcard))
+- Portfolio: [My Website]([https://your-portfolio.com](https://abhisheksingh77.netlify.app/))
+- Email: abhishek.avin6@gmail.com
+
+---
+
+
 ###
 
 <img align="right" src="https://profile-counter.glitch.me/abhisheksingh66/count.svg?"  />
 
 ###
+
+Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to connect or collaborate. ✨
