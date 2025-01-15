@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h2 align="left">Hi 👋! My name is Abhishek and I'm a Java FullStack Developer ,<br> Enthusiastic web developer with expertise in HTML, CSS, JavaScript, ReactJS, NextJS, and front-end frameworks like Bootstrap and Tailwind. Proficient in version control (Git/GitHub) and database management (SQL, PostgreSQL) Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices</h2>
 
 ###
