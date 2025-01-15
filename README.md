@@ -102,7 +102,14 @@ Passionate about crafting dynamic web applications, collaborating with designers
 
 ###
 
-<h6 align="left">About Me<br>🎓 Graduating from Dr. A.P.J. Abdul Kalam Technical University with a Bachelor's in Civil Engineering in July 2022 .<br>💻 Skilled in React.js,  HTML, CSS, and more.<br>🌱 I'm constantly learning and improving to stay updated with the latest technologies in the field.</h6>
+<h3 align="left">👨‍💻 About Me</h3>
+
+🎓 **Education:** Graduated from Dr. A.P.J. Abdul Kalam Technical University with a Bachelor's in Civil Engineering in July 2022.  
+
+🌱 **Learning Journey:** Constantly learning and evolving to stay updated with the latest technologies and best practices in the software development field.  
+
+✨ Passionate about solving problems, building dynamic web applications, and contributing to innovative projects.  
+
 
 ###
 
