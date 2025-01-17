@@ -13,7 +13,7 @@ Enthusiastic developer with a strong foundation in both back-end and front-end t
 - **Front-End Development:** HTML, CSS, JavaScript, ReactJS, NextJS, Bootstrap, and Tailwind CSS.  
 - **Back-End Development:** Java, Spring, Spring Boot, Servlets, JSP, Hibernate.  
 - **Database Management:** SQL, PostgreSQL, and MySQL.  
-- **Version Control:** Git/GitHub.  
+- **Developer Tools:** Eclipse IDE, VS Code, Workbench, IntelliJ, Git/GitHub.  
 
 <p>
 Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices to build scalable, user-friendly software solutions.
