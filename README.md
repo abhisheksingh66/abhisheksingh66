@@ -11,7 +11,7 @@ Enthusiastic developer with a strong foundation in both back-end and front-end t
 </p>
 
 - **Front-End Development:** HTML, CSS, JavaScript, ReactJS, NextJS, Bootstrap, and Tailwind CSS.  
-- **Back-End Development:** Java, Spring, Spring Boot, Servlets, JSP, Hibernate.  
+- **Back-End Development:** Java, Spring, Spring Boot, Servlets, JSP, Hibernate, J2EE.  
 - **Database Management:** SQL, PostgreSQL, and MySQL.  
 - **Developer Tools:** Eclipse IDE, VS Code, Workbench, IntelliJ, Git/GitHub.  
 
