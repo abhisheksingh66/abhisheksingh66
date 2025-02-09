@@ -7,20 +7,6 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 ---
 <img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
-
-
-<div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
-  <a href="https://git.io/typing-svg" style="text-decoration: none;" >
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=300&lines=Java full+stack+developer;problem+solver;&color=FFA500" alt="Typing SVG" />
-
-  </a>
-</div>
-
-
-- 🌱 I am currently learning more about backend development.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/abhishek-singh05/)
-
-
 ---
 <p>
 Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
