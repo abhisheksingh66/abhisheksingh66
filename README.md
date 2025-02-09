@@ -5,7 +5,28 @@
 Welcome to my GitHub profile! I'm  eager to contribute to innovative projects and grow as a software developer."Aspiring to specialize in both back-end and front-end development, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions."
 
 ---
+<img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
+
+
+<div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://git.io/typing-svg" style="text-decoration: none;" >
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=300&lines=full+stack+developer;problem+solver;freelancer&color=FFA500" alt="Typing SVG" />
+
+  </a>
+</div>
+
+
+- 🌱 I am currently learning more about backend development.
+- 👆 <em>Full Stack Developer at <a href="https://backendcodersindia.com/">Backend Coder India Pvt. Ltd.
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
+
+[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhivlogsingh)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishe91196437)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+
+---
 <p>
 Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
 </p>
