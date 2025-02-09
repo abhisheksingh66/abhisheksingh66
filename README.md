@@ -11,20 +11,15 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
   <a href="https://git.io/typing-svg" style="text-decoration: none;" >
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=300&lines=full+stack+developer;problem+solver;freelancer&color=FFA500" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=false&width=300&lines=Java full+stack+developer;problem+solver;&color=FFA500" alt="Typing SVG" />
 
   </a>
 </div>
 
 
 - 🌱 I am currently learning more about backend development.
-- 👆 <em>Full Stack Developer at <a href="https://backendcodersindia.com/">Backend Coder India Pvt. Ltd.
-- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/abhishek-singh05/)
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhivlogsingh)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-b568171ba/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishe91196437)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 ---
 <p>
