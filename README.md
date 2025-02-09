@@ -2,8 +2,6 @@
 
 ### 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-<img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
-
 Welcome to my GitHub profile! I'm  eager to contribute to innovative projects and grow as a software developer."Aspiring to specialize in both back-end and front-end development, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions."
 
 ---
