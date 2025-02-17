@@ -66,14 +66,6 @@ Passionate about crafting dynamic web applications, collaborating with designers
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh66&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true&disable_animations=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh66&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksingh66&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180" alt="Most Used Languages" />
-</div>
-
-
-
 ###
 
 
@@ -104,26 +96,6 @@ Passionate about crafting dynamic web applications, collaborating with designers
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
-
-
-
-
-## 📬 Connect with Me
-
-<p align="right">
-  <a href="https://www.linkedin.com/in/abhishek-singh05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/avin_abhi14" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://abhisheksingh77.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 ###
 
