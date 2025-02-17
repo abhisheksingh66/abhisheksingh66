@@ -1,4 +1,5 @@
-### Hi, I'm Abhishek Singh! 👋
+### Hi, I'm **Abhishek Singh**! 👋
+
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-singh05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,23 +15,23 @@
   </a>
 </p>
 
+---
 
-###
+<img align="right" height="150" src="https://media.tenor.com/Zyd2BmUX_gQAAAAi/panda-gifts-panda.gif" />
 
-<img align="right" height="150" src="https://media.tenor.com/Zyd2BmUX_gQAAAAi/panda-gifts-panda.gif"  />
+---
 
-
-###
 ### 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-Welcome to my GitHub profile! I'm  eager to contribute to innovative projects and grow as a software developer."Aspiring to specialize in both back-end and front-end development, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions."
+Welcome to my GitHub profile! I’m eager to contribute to innovative projects and grow as a software developer. **Aspiring to specialize in both back-end and front-end development**, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions.
 
 ---
 
 <p><strong>Enthusiastic developer</strong> with a strong foundation in both <strong>back-end</strong> and <strong>front-end technologies</strong>. I have expertise in:</p>
 
+---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ### **💻 Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -58,14 +59,12 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 <h3>🌟 Passionate About:</h3>
 <p><strong>Crafting dynamic web applications</strong>, collaborating with designers, and embracing new technologies and best practices to build <strong>scalable, user-friendly software solutions</strong>.</p>
 
-
-
-###
-
-###
+---
 
 <h3 align="left">👨‍💻 About Me</h3>
 
@@ -75,8 +74,7 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 
 ✨ Passionate about solving problems, building dynamic web applications, and contributing to innovative projects.  
 
-
-###
+---
 
 <h3 align="left">💻 Skills</h3>
 
@@ -101,6 +99,7 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 **Soft Skills:**  
 - Communication, Teamwork, Problem Solving, Data Structures & Algorithms  
 
+---
 
 ## 🌟 Highlights
 
@@ -109,7 +108,6 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 
 ---
 
-
 ## 🔗 Let's Connect!
 
 - LinkedIn: [Abhishek Singh](https://www.linkedin.com/in/abhishek-singh05/?trk=opento_sprofile_topcard)
@@ -117,8 +115,5 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 - Email: abhishek.avin6@gmail.com
 
 ---
-
-
-###
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to connect or collaborate. ✨
