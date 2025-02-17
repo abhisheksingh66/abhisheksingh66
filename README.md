@@ -4,9 +4,6 @@
 
 <img align="right" height="150" src="https://media.tenor.com/Zyd2BmUX_gQAAAAi/panda-gifts-panda.gif"  />
 
-###
-## 📬 Connect with Me
-
 <p align="right">
   <a href="https://www.linkedin.com/in/abhishek-singh05/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
