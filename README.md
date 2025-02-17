@@ -27,9 +27,8 @@ Welcome to my GitHub profile! I'm  eager to contribute to innovative projects an
 
 ---
 
-<p>
-Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
-</p>
+<p><strong>Enthusiastic developer</strong> with a strong foundation in both <strong>back-end</strong> and <strong>front-end technologies</strong>. I have expertise in:</p>
+
 
 ## 🛠 Tech Stack
 
