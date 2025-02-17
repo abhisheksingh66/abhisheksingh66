@@ -59,9 +59,9 @@ Enthusiastic developer with a strong foundation in both back-end and front-end t
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p>
-Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices to build scalable, user-friendly software solutions.
-</p>
+<h3>🌟 Passionate About:</h3>
+<p><strong>Crafting dynamic web applications</strong>, collaborating with designers, and embracing new technologies and best practices to build <strong>scalable, user-friendly software solutions</strong>.</p>
+
 
 
 ###
