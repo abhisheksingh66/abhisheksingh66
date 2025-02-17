@@ -1,20 +1,14 @@
-<h1 align="center">Hi, I'm Abhishek Singh! 👋</h1>
+# Hi, I'm Abhishek Singh! 👋
 
-<p align="center">
-  <img src="https://media.tenor.com/Zyd2BmUX_gQAAAAi/panda-gifts-panda.gif" width="150" />
+### 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
+
+Welcome to my GitHub profile! I'm  eager to contribute to innovative projects and grow as a software developer."Aspiring to specialize in both back-end and front-end development, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions."
+
+---
+
+<p>
+Enthusiastic developer with a strong foundation in both back-end and front-end technologies. I have expertise in:
 </p>
-
-<h3 align="center">🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner</h3>
-
----
-
-## 🚀 About Me
-
-🎓 **Education:** Graduated from Dr. A.P.J. Abdul Kalam Technical University (2022) with a Bachelor's in Civil Engineering.  
-🌱 **Learning:** Constantly evolving with the latest technologies in software development.  
-✨ **Passion:** Problem-solving, building dynamic web applications, and contributing to innovative projects.
-
----
 
 ## 🛠 Tech Stack
 
@@ -44,16 +38,76 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+<p>
+Passionate about crafting dynamic web applications, collaborating with designers, and embracing new technologies and best practices to build scalable, user-friendly software solutions.
+</p>
 
-## 📊 GitHub Stats
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh66&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksingh66&theme=dracula&hide_border=false" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheksingh66&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksingh66&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/Zyd2BmUX_gQAAAAi/panda-gifts-panda.gif"  />
+
+###
 
 ## 📬 Connect with Me
 
@@ -72,6 +126,60 @@
   </a>
 </p>
 
+###
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+🎓 **Education:** Graduated from Dr. A.P.J. Abdul Kalam Technical University with a Bachelor's in Civil Engineering in July 2022.  
+
+🌱 **Learning Journey:** Constantly learning and evolving to stay updated with the latest technologies and best practices in the software development field.  
+
+✨ Passionate about solving problems, building dynamic web applications, and contributing to innovative projects.  
+
+
+###
+
+<h3 align="left">💻 Skills</h3>
+
+**Languages:**  
+- Java (Core Java, Advanced Java), HTML/CSS, JavaScript, C  
+
+**Tools:**  
+- IntelliJ IDEA, Eclipse IDE, VSCode, Jupyter Notebook, Git & GitHub  
+
+**Frameworks & Libraries:**  
+- Spring, Spring Boot, Hibernate, jQuery, Bootstrap, Tailwind CSS, ReactJS, Redux Toolkit, NextJS, MUI  
+
+**Databases:**  
+- SQL, PostgreSQL, Oracle  
+
+**Operating Systems:**  
+- Ubuntu, Windows, Linux  
+
+**Core Java Knowledge:**  
+- Object-Oriented Programming (OOP), Multithreading, Collections Framework, Exception Handling, JDBC  
+
+**Soft Skills:**  
+- Communication, Teamwork, Problem Solving, Data Structures & Algorithms  
+
+
+## 🌟 Highlights
+
+- Passionate about crafting clean, efficient, and maintainable code.
+- Continuously learning and adapting to new technologies.
+
 ---
 
-Thanks for visiting! 🚀 Feel free to explore my repositories and let's collaborate! ✨
+
+## 🔗 Let's Connect!
+
+- LinkedIn: [Abhishek Singh](https://www.linkedin.com/in/abhishek-singh05/?trk=opento_sprofile_topcard)
+- Portfolio: [My Website](https://abhisheksingh77.netlify.app/)
+- Email: abhishek.avin6@gmail.com
+
+---
+
+
+###
+
+Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to connect or collaborate. ✨
