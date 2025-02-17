@@ -1,5 +1,11 @@
 # Hi, I'm Abhishek Singh! 👋
 
+###
+
+<img align="right" height="150" src="https://media.tenor.com/Zyd2BmUX_gQAAAAi/panda-gifts-panda.gif"  />
+
+###
+
 ### 🌟 Aspiring Java Full Stack Developer | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
 Welcome to my GitHub profile! I'm  eager to contribute to innovative projects and grow as a software developer."Aspiring to specialize in both back-end and front-end development, combining a strong foundation in programming with creativity and logical problem-solving to build efficient and user-friendly software solutions."
